@@ -165,7 +165,7 @@
 <div align="center">
 
 <a href="mailto:acesy40@gmail.com"><img src="https://img.shields.io/badge/acesy40@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="email" /></a>
-<img src="https://img.shields.io/badge/mr.insanity__-0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF" alt="discord: mr.insanity_" />
+<a href="https://discord.com/users/725599475975979075"><img src="https://img.shields.io/badge/mr.insanity__-0D1117?style=for-the-badge&logo=discord&logoColor=00F0FF" alt="discord: mr.insanity_" /></a>
 
 <br/><br/>
 
