@@ -22,24 +22,41 @@
 
 ## `▚▞` &nbsp;./whoami
 
+<table>
+<tr>
+<td valign="top" width="63%">
+
 ```console
 ┌─[stephen@github]─[~/.profile]
 └──╼ $ cat identity.yml
 
-  handle      : Phennnn
-  role        : CS student · full-stack + machine learning
-  location    : Metro Manila, Philippines
-  does        : trains the model, then builds the thing it lives in
-  stack       : React / Node on top, PyTorch underneath, Docker around
+  handle    : Phennnn
+  role      : full-stack + machine learning
+  location  : Metro Manila, PH
+  does      : trains the model, then ships
+              the thing it lives in
+  stack     : React / Node on top,
+              PyTorch underneath
 
-  thesis      : >
-    A model is not finished when the notebook runs.
-    It is finished when it has an API, a UI, and a
-    stranger using it without asking me how.
+  thesis    : >
+    A model is not finished when the
+    notebook runs. It is finished when
+    it has an API, a UI, and a stranger
+    using it without asking me how.
 
-┌─[stephen@github]─[~/.profile]
 └──╼ $ _
 ```
+
+</td>
+<td valign="top" width="37%" align="center">
+
+<img src="assets/doom.svg" width="200" alt="pixel art hooded figure, cape sweeping" />
+
+<sub>`DOOM.exe` — still running</sub>
+
+</td>
+</tr>
+</table>
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:7B2CBF,100:00F0FF&height=3&section=header" alt="divider" /></div>
 
