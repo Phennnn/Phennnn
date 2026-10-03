@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ═══════════════════════ NEON HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7B2CBF,100:00F0FF&height=210&section=header&text=STEPHEN&fontSize=74&fontColor=E8FBFF&fontAlignY=34&desc=reinforcement%20learning%20%E2%80%A2%20computer%20vision%20%E2%80%A2%20manila&descAlignY=56&descSize=17&animation=fadeIn" alt="Stephen" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7B2CBF,100:00F0FF&height=210&section=header&text=STEPHEN&fontSize=74&fontColor=E8FBFF&fontAlignY=34&desc=full%20stack%20%E2%80%A2%20machine%20learning%20%E2%80%A2%20manila&descAlignY=56&descSize=17&animation=fadeIn" alt="Stephen" />
 
 <!-- ═══════════════════════ TYPING LINE ═══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=45&lines=%3E+Reinforcement+learning+%2F+computer+vision;%3E+Self-play+agents+that+beat+their+heuristics;%3E+Predicting+when+the+MRT+ruins+your+commute;%3E+CS+student+%2F+Manila%2C+PH" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=45&lines=%3E+Full-stack+engineer+%2F+machine+learning;%3E+I+build+the+model+AND+the+thing+it+runs+in;%3E+React+and+Node+on+top%2C+PyTorch+underneath;%3E+CS+student+%2F+Manila%2C+PH" alt="typing" />
 
 <br/>
 
 <!-- ═══════════════════════ BADGE ROW ═══════════════════════ -->
-<img src="https://img.shields.io/badge/FOCUS-DEEP_RL-00F0FF?style=for-the-badge&labelColor=0D1117" alt="focus" />
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%2B_ML-00F0FF?style=for-the-badge&labelColor=0D1117" alt="focus" />
 <img src="https://img.shields.io/badge/BASED_IN-MANILA_PH-FF2E97?style=for-the-badge&labelColor=0D1117" alt="location" />
 <img src="https://img.shields.io/badge/%E2%97%8F_OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0D1117" alt="open to work" />
 <a href="https://github.com/Phennnn?tab=followers"><img src="https://img.shields.io/github/followers/Phennnn?style=for-the-badge&labelColor=0D1117&color=7B2CBF&logo=github&logoColor=00F0FF" alt="followers" /></a>
@@ -27,14 +27,15 @@
 └──╼ $ cat identity.yml
 
   handle      : Phennnn
-  role        : CS student · applied machine learning
+  role        : CS student · full-stack + machine learning
   location    : Metro Manila, Philippines
-  obsessions  : agents that learn to play, models that ship
+  does        : trains the model, then builds the thing it lives in
+  stack       : React / Node on top, PyTorch underneath, Docker around
 
   thesis      : >
     A model is not finished when the notebook runs.
-    It is finished when it survives a webcam, a bad
-    commute, and an opponent that fights back.
+    It is finished when it has an API, a UI, and a
+    stranger using it without asking me how.
 
 ┌─[stephen@github]─[~/.profile]
 └──╼ $ _
@@ -152,7 +153,8 @@
   [ACTIVE]  pusoy-dos-rl  pushing PPO past its self-play plateau
   [ACTIVE]  Pokescanner   closing the sprite/photo gap, extracting a shared core
   [QUEUED]  trenph        real headway data instead of synthetic features
-  [READING] policy-gradient variance reduction, offline RL
+  [QUEUED]  deploying both demos so they're clickable, not just cloneable
+  [READING] production ML serving, and policy-gradient variance reduction
 ```
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:7B2CBF,100:FF2E97&height=3&section=header" alt="divider" /></div>
@@ -166,7 +168,7 @@
 
 <br/><br/>
 
-**Open to ML / RL internships, research collaborations, and anything that needs an agent trained.**
+**Open to full-stack, ML, and internship roles — and anything that needs a model shipped end to end.**
 
 <sub>Currently a student, actively building, and I reply to messages.</sub>
 
