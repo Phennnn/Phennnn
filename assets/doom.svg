@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 176" width="144" height="176" shape-rendering="crispEdges" role="img" aria-label="Pixel art hooded figure in a green cloak with a steel mask, cape sweeping outward">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 176" width="164" height="176" shape-rendering="crispEdges" role="img" aria-label="Pixel art hooded figure in a green cloak with a steel mask, cape sweeping outward">
+<g transform="translate(10,0)">
 
   <g>
     <rect x="0" y="88" width="24" height="72" fill="#0E2E12"/>
-    <rect x="16" y="88" width="16" height="72" fill="#1B5E20"/>
+    <rect x="16" y="88" width="30" height="72" fill="#1B5E20"/>
     <rect x="0" y="152" width="24" height="8" fill="#081C0A"/>
+    <rect x="0" y="88" width="8" height="72" fill="#143A17"/>
     <animateTransform attributeName="transform" type="translate"
       values="0,0; -10,2; -10,2; 0,0; 0,0" keyTimes="0; 0.3; 0.5; 0.8; 1"
       dur="3.4s" repeatCount="indefinite"/>
@@ -11,8 +13,9 @@
 
   <g>
     <rect x="120" y="88" width="24" height="72" fill="#0E2E12"/>
-    <rect x="112" y="88" width="16" height="72" fill="#1B5E20"/>
+    <rect x="98" y="88" width="30" height="72" fill="#1B5E20"/>
     <rect x="120" y="152" width="24" height="8" fill="#081C0A"/>
+    <rect x="136" y="88" width="8" height="72" fill="#143A17"/>
     <animateTransform attributeName="transform" type="translate"
       values="0,0; 10,2; 10,2; 0,0; 0,0" keyTimes="0; 0.3; 0.5; 0.8; 1"
       dur="3.4s" repeatCount="indefinite"/>
@@ -22,6 +25,7 @@
   <rect x="24" y="144" width="96" height="24" fill="#1B5E20"/>
   <rect x="24" y="160" width="96" height="8" fill="#0E2E12"/>
   <rect x="24" y="80" width="8" height="88" fill="#43A047"/>
+  <rect x="112" y="80" width="8" height="88" fill="#1B5E20"/>
 
   <rect x="16" y="72" width="112" height="16" fill="#2E7D32"/>
   <rect x="16" y="72" width="112" height="4" fill="#43A047"/>
@@ -60,4 +64,5 @@
   </rect>
   <rect x="68" y="84" width="8" height="8" fill="#C9A800"/>
 
+</g>
 </svg>
